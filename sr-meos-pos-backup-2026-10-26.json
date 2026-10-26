@@ -1,0 +1,110 @@
+{
+  "app": "Sr. Meo Chicken Food House POS",
+  "version": 1,
+  "exportedAt": "2026-10-26T02:58:26.949Z",
+  "products": [
+    {
+      "id": 1,
+      "name": "Lechon Manok",
+      "price": 280,
+      "cost": 0,
+      "stock": 38,
+      "low": 20
+    },
+    {
+      "id": 2,
+      "name": "Liempo",
+      "price": 190,
+      "cost": 0,
+      "stock": 19,
+      "low": 5
+    },
+    {
+      "id": 3,
+      "name": "Lechon Liog",
+      "price": 7,
+      "cost": 0,
+      "stock": 0,
+      "low": 5
+    },
+    {
+      "id": 4,
+      "name": "FC15",
+      "price": 15,
+      "cost": 0,
+      "stock": 0,
+      "low": 50
+    },
+    {
+      "id": 5,
+      "name": "FC10",
+      "price": 10,
+      "cost": 0,
+      "stock": 0,
+      "low": 50
+    },
+    {
+      "id": 6,
+      "name": "Chicken Skin",
+      "price": 30,
+      "cost": 0,
+      "stock": 0,
+      "low": 5
+    }
+  ],
+  "sales": [
+    {
+      "date": "2026-10-26T02:10:53.875Z",
+      "businessDate": "2026-10-26",
+      "payment": "Cash",
+      "total": 190,
+      "profit": 190,
+      "items": [
+        {
+          "productId": 2,
+          "name": "Liempo",
+          "qty": 1,
+          "price": 190,
+          "cost": 0,
+          "lineTotal": 190,
+          "lineProfit": 190
+        }
+      ],
+      "amountReceived": 190,
+      "change": 0,
+      "id": 1
+    },
+    {
+      "date": "2026-10-26T02:11:06.272Z",
+      "businessDate": "2026-10-26",
+      "payment": "Cash",
+      "total": 560,
+      "profit": 560,
+      "items": [
+        {
+          "productId": 1,
+          "name": "Lechon Manok",
+          "qty": 2,
+          "price": 280,
+          "cost": 0,
+          "lineTotal": 560,
+          "lineProfit": 560
+        }
+      ],
+      "amountReceived": 600,
+      "change": 40,
+      "id": 2
+    }
+  ],
+  "receiving": [],
+  "expenses": [],
+  "closings": [],
+  "settings": [
+    {
+      "key": "app",
+      "value": {
+        "storeName": "Sr. Meo's Chicken Food House"
+      }
+    }
+  ]
+}

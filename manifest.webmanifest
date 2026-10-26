@@ -1,0 +1,10 @@
+{
+  "name": "Sr. Meo's Chicken Food House POS",
+  "short_name": "Sr. Meo POS",
+  "description": "Offline-first POS and inventory tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f1",
+  "theme_color": "#24372b",
+  "icons": []
+}
